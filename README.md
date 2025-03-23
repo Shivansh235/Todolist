@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-=> Boost Your Productivity with Our To-Do App!
+=> Boost Your Productivity with Our To-Do App(Responsive-app)!
 
 
 Struggling to keep track of your daily tasks? Our to-do app is designed to simplify your life! Whether it’s a task for today or a plan for tomorrow, just write it down, and let the app help you stay organized, focused, and productive. No more forgetting important things—stay ahead and make the most of every day!
